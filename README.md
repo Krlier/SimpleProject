@@ -27,4 +27,4 @@ Then simply visit [localhost:5000][App] !
 [Docker Install]:  https://docs.docker.com/install/
 [Docker Compose Install]: https://docs.docker.com/compose/install/
 [App]: http://127.0.0.1:5000
-[here]: https://medium.com
+[here]: https://medium.com/@daniel.carlier/how-to-build-a-simple-flask-restful-api-with-docker-compose-2d849d738137
