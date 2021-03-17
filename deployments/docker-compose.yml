@@ -1,7 +1,7 @@
 version: "2"
 services:
   app:
-    container_name: simple-app
+    container_name: Team5Project6
     build:
       context: ../
       dockerfile: deployments/app/Dockerfile
