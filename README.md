@@ -1,3 +1,8 @@
+# Team 5
+Team members: Alan C, Ashlynn H, Hunter T, and Kevin N
+This project was made for TCMG 412.
+The project is to: EDIT IN
+
 # Simple Project
  > This is a simple project to demonstrate how to build a simple Flask RESTful API with Docker-Compose.
 
